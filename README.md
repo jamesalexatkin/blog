@@ -1,3 +1,5 @@
+> ⚠️ **DEPRECATED:** I folded writing into my main site's repo at https://github.com/jamesalexatkin/jamesalexatkin.github.io.
+
 # Blog
 
 This is the repository for my blog hosted at https://jamesatk.in/writing/.
